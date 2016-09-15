@@ -1,0 +1,17 @@
+{
+  "name": "language-stratifiedjs",
+  "version": "0.0.0",
+  "description": "Stratified JS language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linguistbreaker/atom-sjs"
+  },
+  "bugs": {
+    "url": "https://github.com/linguistbreaker/atom-sjs/issues"
+  },
+  "license": "MIT"
+}
